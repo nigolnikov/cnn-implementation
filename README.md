@@ -1,6 +1,6 @@
 # cnn-implementation
 
-Implementation of CNN workflow
+Implementation of CNN workflow.
 
 -npcnn.py: numpy ndarray based implementation
 
